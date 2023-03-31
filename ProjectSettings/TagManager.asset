@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Pins
   - BowlingBall
+  - lane
   layers:
   - Default
   - TransparentFX
